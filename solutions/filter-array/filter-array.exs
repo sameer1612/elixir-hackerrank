@@ -1,6 +1,15 @@
 # https://www.hackerrank.com/challenges/fp-filter-array/problem
 
 defmodule CustomFilter do
+  @moduledoc """
+  Implement a filter function in Elixir.
+  """
+
+  @doc """
+  Filter a list of items based on a condition function.
+
+  The condition function should take a single argument and return a boolean.
+  """
   def filter(items, cond) do
     filter(items, cond, [])
   end
