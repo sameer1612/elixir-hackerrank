@@ -2,7 +2,7 @@
 
 defmodule Solution do
   input =
-    File.read("list-replication.txt")
+    File.read("solutions/list-replication/list-replication.txt")
     |> elem(1)
     |> String.split("\n", trim: true)
     |> Enum.map(&String.to_integer/1)

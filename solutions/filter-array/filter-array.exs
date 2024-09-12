@@ -25,7 +25,7 @@ end
 
 defmodule Solution do
   input =
-    File.read("filter-array.txt")
+    File.read("solutions/filter-array/filter-array.txt")
     |> elem(1)
     |> String.split("\n", trim: true)
     |> Enum.map(&String.to_integer/1)
