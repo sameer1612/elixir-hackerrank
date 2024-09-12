@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/fp-list-replication/problem
+
 defmodule Solution do
   input =
     File.read("list-replication.txt")
