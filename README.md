@@ -9,3 +9,5 @@ Elixir solutions for hackerrank FP domain: https://www.hackerrank.com/domains/fp
 - [Filter array](https://www.hackerrank.com/challenges/fp-filter-array/problem)
 - [Filter positions](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem)
 - [List replication](https://www.hackerrank.com/challenges/fp-list-replication/problem)
+- [Array of n elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem)
+- [Reverse a list](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem)
