@@ -4,7 +4,7 @@ Elixir solutions for hackerrank FP domain: https://www.hackerrank.com/domains/fp
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/9bc03244-fb2b-4c7f-b3d3-d3d495b72d33">
 
-## Problems
+## Fundamentals
 
 - [Filter array](https://www.hackerrank.com/challenges/fp-filter-array/problem)
 - [Filter positions](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem)
@@ -15,3 +15,7 @@ Elixir solutions for hackerrank FP domain: https://www.hackerrank.com/domains/fp
 - [List length](https://www.hackerrank.com/challenges/fp-list-length/problem)
 - [Update list](https://www.hackerrank.com/challenges/fp-update-list/problem)
 - [Eval ex](https://www.hackerrank.com/challenges/eval-ex/problem)
+
+## Recursion
+
+- [Computing GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)
