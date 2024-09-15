@@ -13,3 +13,5 @@ Elixir solutions for hackerrank FP domain: https://www.hackerrank.com/domains/fp
 - [Reverse a list](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem)
 - [Sum of odd numbers](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem)
 - [List length](https://www.hackerrank.com/challenges/fp-list-length/problem)
+- [Update list](https://www.hackerrank.com/challenges/fp-update-list/problem)
+- [Eval ex](https://www.hackerrank.com/challenges/eval-ex/problem)
