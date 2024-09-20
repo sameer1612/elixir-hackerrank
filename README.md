@@ -19,3 +19,4 @@ Elixir solutions for hackerrank FP domain: https://www.hackerrank.com/domains/fp
 ## Recursion
 
 - [Computing GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)
+- [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)
