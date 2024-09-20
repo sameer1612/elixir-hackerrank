@@ -6,7 +6,7 @@ defmodule Solution do
   def gcd(_, 1), do: 1
 
   def gcd(x, y) do
-    if x > y, do: gcd(x - y, y), else: gcd(y, y - x)
+    if x > y, do: gcd(x - y, y), else: gcd(y, x)
   end
 
   def run do
