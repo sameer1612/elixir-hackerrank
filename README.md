@@ -21,3 +21,5 @@ Elixir solutions for hackerrank FP domain: https://www.hackerrank.com/domains/fp
 - [Computing GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)
 - [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)
 - [Pascal Triangle](https://www.hackerrank.com/challenges/pascals-triangle/problem)
+- [String Mingling](https://www.hackerrank.com/challenges/string-mingling/problem)
+- [String O Permute](https://www.hackerrank.com/challenges/string-o-permute/problem)
